@@ -2,7 +2,7 @@
  
 </p align="center">
 
-[![Marvin](https://github.com/andreassenmarvin/andreassenmarvin/blob/main/Hello%20there%2Cmy%20name%20is%20Marvin%3B%20a%20phenomenal%20developer.%20(1).mp4)
+<video src="https://github.com/andreassenmarvin/andreassenmarvin/blob/main/Hello%20there%2Cmy%20name%20is%20Marvin%3B%20a%20phenomenal%20developer.%20(1).mp4)">
 
 
 
