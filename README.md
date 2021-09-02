@@ -37,10 +37,10 @@
 <p align="center">
   
 <a href="mailto: machariamarvin625@gmail.com" target="_blank">
- <img src="https://img.shields.io/badge/-ritikpr307-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:machariamarvin625@gmail.com"/>
+ <img src="https://img.shields.io/badge/-andreassenmarvin-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:machariamarvin625@gmail.com"/>
 </a>
 <a href="https://www.linkedin.com/in/marvin-macharia-ab6766207/" target="_blank">
- <img src="https://img.shields.io/badge/-ritikrawal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritik-rawal-698a18142/"/>
+ <img src="https://img.shields.io/badge/-andreassenmarvin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marvin-macharia-ab6766207/"/>
 </a>
  <a href="https://www.instagram.com/andreassen_marvin/" target="_blank">
  <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/>
