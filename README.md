@@ -43,7 +43,7 @@
  <img src="https://img.shields.io/badge/-andreassenmarvin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marvin-macharia-ab6766207/"/>
 </a>
  <a href="https://www.instagram.com/andreassen_marvin/" target="_blank">
- <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/>
+ <img src="https://img.shields.io/badge/-andreassen_marvin-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/>
  </a>
 </p>
 
