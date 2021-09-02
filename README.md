@@ -1,7 +1,7 @@
 <p align="center">
  
 </p align="center">
-<img src="https://github.com/marvinandreassen/marvinandreassen/blob/main/images/newbg(1).png" />
+<img src="https://github.com/andreassenmarvin/andreassenmarvin/blob/main/images/newbg(1).png" />
 
 <p align="center">
  
