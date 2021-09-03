@@ -7,8 +7,8 @@
 <p align="center">
  
 <img src="https://badges.pufler.dev/visits/andreassenmarvin/andreassenmarvin"/> 
- <img src="https://badges.pufler.dev/repos/andreassenmarvin"/>
-  <img src="https://badges.pufler.dev/commits/monthly/andreassenmarvin"/>
+ <img src="https://badges.pufler.dev/repos/marvinandreassen"/>
+  <img src="https://badges.pufler.dev/commits/monthly/marvinandreassen"/>
 
 </p>
 
@@ -63,7 +63,7 @@
 
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=andreassenmarvin&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=andreassenmarvin&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=marvinandreassen&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
 </p>
 
 <p align = "center">
@@ -71,5 +71,5 @@
 </p> 
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=andreassenmarvin&theme=redical">
+ <img src="https://activity-graph.herokuapp.com/graph?username=marvinandreassen&theme=redical">
 </p> 
