@@ -12,10 +12,6 @@
 
 </p>
 
-<p align="center">
- I am a passionate Web developer currently studying at Moringa School.I enjoy learning new things and I believe that critical thinking is the key to unique development.
-</p>  
-
 <h2 align="center">Technology Stack<img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 
 <p align="center">
