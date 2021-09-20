@@ -6,9 +6,9 @@
 
 <p align="center">
  
-<img src="https://badges.pufler.dev/visits/andreassenmarvin/andreassenmarvin"/> 
- <img src="https://badges.pufler.dev/repos/andreassenmarvin"/>
-  <img src="https://badges.pufler.dev/commits/monthly/andreassenmarvin"/>
+<img src="https://badges.pufler.dev/visits/andreassenmarvin"/> 
+ <img src="https://badges.pufler.dev/repos/andreassen"/>
+  <img src="https://badges.pufler.dev/commits/andreassenmarvin"/>
 
 </p>
 
