@@ -6,13 +6,13 @@
 
 <p align="center">
  
-<img src="https://badges.pufler.dev/visits/andreassenmarvin/andreassenmarvin"/> 
- <img src="https://badges.pufler.dev/repos/andreassenmarvin"/>
-  <img src="https://badges.pufler.dev/commits/monthly/andreassenmarvin"/>
+<img src="https://badges.pufler.dev/visits/ritik307/ritik307"/> 
+ <img src="https://badges.pufler.dev/repos/ritik307"/>
+  <img src="https://badges.pufler.dev/commits/monthly/ritik307"/>
 
 </p>
 
-<h2 align="center">Technology Stack<img src="https://github.com/andreassenmarvin/andreassenmarvin/blob/main/images/laptop.gif" width="50"></h2>
+<h2 align="center">Technology Stack<img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 
 <p align="center">
 <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
