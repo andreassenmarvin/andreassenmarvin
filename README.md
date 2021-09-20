@@ -6,7 +6,7 @@
 
 <p align="center">
  
-<img src="https://badges.pufler.dev/visits/andreassenmarvin/marvinandreassen"/> 
+<img src="https://badges.pufler.dev/visits/marvinandreassen/marvinandreassen"/> 
  <img src="https://badges.pufler.dev/repos/marvinandreassen"/>
   <img src="https://badges.pufler.dev/commits/monthly/marvinandreassen"/>
 
