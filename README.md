@@ -1,6 +1,4 @@
-<h2 align="center">
- Hi there! My name is Marvin, and I'm a phenomenal developer.
-<h2 align="center">
+### Hi there 👋! my name is Marvin, and I'm a phenomenal developer
 
 <p align="center">
  
