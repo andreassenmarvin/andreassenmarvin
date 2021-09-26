@@ -1,6 +1,6 @@
-<p align="center"
+<h1 align="center">
 ### Hi there 👋 , my name is Marvin, and I'm a phenomenal developer.
-</p>
+</h1>
 
 <p align="center">
  
