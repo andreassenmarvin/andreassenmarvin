@@ -1,14 +1,12 @@
 <p align="center">
- 
+ Hi there! My name is Marvin, and I'm a phenomenal developer.
 </p align="center">
-
-<img src="https://github.com/andreassenmarvin/andreassenmarvin/blob/main/Hello%20there%2Cmy%20name%20is%20Marvin%3B%20a%20phenomenal%20developer..png"/>
 
 <p align="center">
  
 <img src="https://badges.pufler.dev/visits/andreassenmarvin/andreassenmarvin"/> 
- <img src="https://badges.pufler.dev/repos/andreassenmarvin"/>
-  <img src="https://badges.pufler.dev/commits/monthly/andreassenmarvin"/>
+ <img src="https://badges.pufler.dev/repos/andreassenmarvin/andreassenmarvin"/>
+  <img src="https://badges.pufler.dev/commits/monthly/andreassenmarvin/andreassenmarvin"/>
 
 </p>
 
