@@ -1,5 +1,5 @@
 <h1 align="center">
-### Hi there 👋 , my name is Marvin, and I'm a phenomenal developer.
+Hi there 👋 , my name is Marvin, and I'm a phenomenal developer.
 </h1>
 
 <p align="center">
