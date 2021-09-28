@@ -6,7 +6,7 @@ Hi there 👋 , my name is Marvin, and I'm a phenomenal developer.
  
 <img src="https://badges.pufler.dev/visits/andreassenmarvin/andreassenmarvin"/> 
  <img src="https://badges.pufler.dev/repos/andreassenmarvin"/>
-  <img src="https://badges.pufler.dev/commits/monthly/andreassenmarvin"/>
+  <img src="https://badges.pufler.dev/commits/weekly/andreassenmarvin"/>
 
 </p>
 
