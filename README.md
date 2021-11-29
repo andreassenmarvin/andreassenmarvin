@@ -50,7 +50,7 @@ Hi there 👋 , my name is Marvin, and I'm a phenomenal developer.
 </p>
 
 <h2 align="center">
-  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+  My Github Stats
 </h2>
  
 <br>
