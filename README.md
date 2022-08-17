@@ -2,14 +2,6 @@
 Hi there 👋 , my name is Marvin, and I'm a phenomenal developer.
 </h1>
 
-<p align="center">
- 
-<img src="https://badges.pufler.dev/visits/andreassenmarvin/andreassenmarvin"/> 
- <img src="https://badges.pufler.dev/repos/andreassenmarvin"/>
-  <img src="https://badges.pufler.dev/commits/monthly/andreassenmarvin"/>
-
-</p>
-
 <h2 align="center">Technology Stack<img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 
 <p align="center">
